@@ -1,0 +1,2 @@
+# lakeshotel
+Static site: lakeshotel
